@@ -1,4 +1,10 @@
 ============================
+Version 6.4.0 - Nov 22, 2016
+============================
+ - Updated Urban Airship Android SDK to 8.1.1
+ - Updated Urban Airship iOS SDK to 8.1.2
+
+============================
 Version 6.3.0 - Oct 31, 2016
 ============================
  - Updated min iOS engine to 4.3.0
